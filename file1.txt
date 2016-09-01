@@ -1,1 +1,2 @@
-l1: my name is Devil
+l2: Now. I'm Angle
+l3: I'm in Bangkok
